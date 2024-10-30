@@ -1,4 +1,4 @@
-import Hero from './Hero'
+import Hero from './Home'
 import CustomButton from './CustomButton'
 import Navbar from './Navbar'
 import Footer from './Footer'
